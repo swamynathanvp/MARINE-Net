@@ -93,7 +93,7 @@ If you use this work, please cite:
 
 ## Maintainer
 
-Developed and maintained by **Swamynathan V. P.** — primary contributor and corresponding author of the paper. For questions, please open an issue or reach out at vpswamynathan0311@gmail.com.
+Developed and maintained by **Swamynathan V. P.** — primary contributor and corresponding author of the paper.
 
 ## License
 
